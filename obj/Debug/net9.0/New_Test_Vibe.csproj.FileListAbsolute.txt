@@ -1,0 +1,15 @@
+E:\vibe_Test\New_Test_Vibe\bin\Debug\net9.0\New_Test_Vibe.exe
+E:\vibe_Test\New_Test_Vibe\bin\Debug\net9.0\New_Test_Vibe.deps.json
+E:\vibe_Test\New_Test_Vibe\bin\Debug\net9.0\New_Test_Vibe.runtimeconfig.json
+E:\vibe_Test\New_Test_Vibe\bin\Debug\net9.0\New_Test_Vibe.dll
+E:\vibe_Test\New_Test_Vibe\bin\Debug\net9.0\New_Test_Vibe.pdb
+E:\vibe_Test\New_Test_Vibe\obj\Debug\net9.0\New_Test_Vibe.GeneratedMSBuildEditorConfig.editorconfig
+E:\vibe_Test\New_Test_Vibe\obj\Debug\net9.0\New_Test_Vibe.AssemblyInfoInputs.cache
+E:\vibe_Test\New_Test_Vibe\obj\Debug\net9.0\New_Test_Vibe.AssemblyInfo.cs
+E:\vibe_Test\New_Test_Vibe\obj\Debug\net9.0\New_Test_Vibe.csproj.CoreCompileInputs.cache
+E:\vibe_Test\New_Test_Vibe\obj\Debug\net9.0\New_Test_Vibe.sourcelink.json
+E:\vibe_Test\New_Test_Vibe\obj\Debug\net9.0\New_Test_Vibe.dll
+E:\vibe_Test\New_Test_Vibe\obj\Debug\net9.0\refint\New_Test_Vibe.dll
+E:\vibe_Test\New_Test_Vibe\obj\Debug\net9.0\New_Test_Vibe.pdb
+E:\vibe_Test\New_Test_Vibe\obj\Debug\net9.0\New_Test_Vibe.genruntimeconfig.cache
+E:\vibe_Test\New_Test_Vibe\obj\Debug\net9.0\ref\New_Test_Vibe.dll
