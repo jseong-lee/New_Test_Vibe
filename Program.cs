@@ -7,3 +7,6 @@ Array.Sort(numbers);
 Console.WriteLine("Sorted:   " + string.Join(" ", numbers));
 Console.WriteLine("Sum: " + numbers.Sum());
 Console.WriteLine("Avg: " + numbers.Average());
+
+Console.WriteLine();
+Calculator.Run();
